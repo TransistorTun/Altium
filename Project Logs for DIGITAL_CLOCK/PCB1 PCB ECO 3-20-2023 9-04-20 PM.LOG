@@ -1,0 +1,24 @@
+Added Component: Designator=P1(JP4H)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=U1(ROTARY_ENCODER)
+Added Component: Designator=U2(HCSR04)
+Added Component: Designator=U3(STM32F103C8T6)
+Added Component: Designator=U4(DHT11)
+Added Component: Designator=U5(RTC_DS3231)
+Added Component: Designator=U6(LCD 2004)
+Added Pin To Net: NetName=NetP1_1 Pin=P1-1
+Added Pin To Net: NetName=NetP1_1 Pin=U3-38
+Added Net: Name=NetP1_1
+Added Pin To Net: NetName=NetP1_2 Pin=P1-2
+Added Pin To Net: NetName=NetP1_2 Pin=U3-39
+Added Net: Name=NetP1_2
+Added Pin To Net: NetName=NetP1_3 Pin=P1-3
+Added Pin To Net: NetName=NetP1_3 Pin=U3-37
+Added Net: Name=NetP1_3
+Added Pin To Net: NetName=NetP1_4 Pin=P1-4
+Added Pin To Net: NetName=NetP1_4 Pin=U3-36
+Added Net: Name=NetP1_4
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=D2 Old Footprint=SS34 New Footprint=D1A
+Change Component Comment : Designator=D2 Old Comment=D Schottky New Comment=Diode
+Change component parameters: Designator = "D2" ("D2"); Footprint = "SS34"; UniqueID = "\RMFWFNSK" ("\RMFWFNSK")

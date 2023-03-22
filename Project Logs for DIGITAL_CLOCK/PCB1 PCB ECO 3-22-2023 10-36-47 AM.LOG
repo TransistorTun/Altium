@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=NetP1_1 Pin=P1-1
+Removed Pin From Net: NetName=NetP1_2 Pin=P1-2
+Change Component Designator: OldDesignator=U5 NewDesignator=U6
+Change Component Designator: OldDesignator=U6 NewDesignator=U5
+Added Pin To Net: NetName=NetP1_2 Pin=P1-1
+Added Pin To Net: NetName=NetP1_1 Pin=P1-2
+Change Net Name : Old Net Name=NetP1_1 New Net Name=+5
+Change Net Name : Old Net Name=NetP1_2 New Net Name=GND
+Change Net Name : Old Net Name=NetU1_1 New Net Name=CLK
+Change Net Name : Old Net Name=NetU1_2 New Net Name=DT
+Change Net Name : Old Net Name=NetU1_3 New Net Name=SW
+Change Net Name : Old Net Name=NetU2_2 New Net Name=TRIG
+Change Net Name : Old Net Name=NetU2_3 New Net Name=ECHO
+Change Net Name : Old Net Name=NetU3_9 New Net Name=DHT11
+Added Pin To Net: NetName=SCL Pin=P1-4
+Added Pin To Net: NetName=SCL Pin=U3-15
+Added Pin To Net: NetName=SCL Pin=U6-3
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=P1-3
+Added Pin To Net: NetName=SDA Pin=U3-16
+Added Pin To Net: NetName=SDA Pin=U6-4
+Added Net: Name=SDA
+Added Member To Class: ClassName=Sheet1 Member=Component U6 RTC DS3231
+Added Room: Name=Sheet1
