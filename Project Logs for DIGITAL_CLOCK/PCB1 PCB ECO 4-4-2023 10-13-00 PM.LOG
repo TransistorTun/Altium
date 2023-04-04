@@ -1,0 +1,69 @@
+Change Component Designator: OldDesignator=U3 NewDesignator=U5
+Change Component Designator: OldDesignator=U4 NewDesignator=U3
+Change Component Designator: OldDesignator=U6 NewDesignator=U4
+Added Component: Designator=C1(CN1)
+Add component (AddParameter): Name = "Value"; Value = "1nF"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CN1)
+Add component (AddParameter): Name = "Value"; Value = "0,47uF"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CN1)
+Add component (AddParameter): Name = "Value"; Value = "1nF"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CN1)
+Add component (AddParameter): Name = "Value"; Value = "0,47uF"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CN1)
+Add component (AddParameter): Name = "Value"; Value = "1nF"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CN1)
+Add component (AddParameter): Name = "Value"; Value = "0,47uF"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CN1)
+Add component (AddParameter): Name = "Value"; Value = "1nF"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CN1)
+Add component (AddParameter): Name = "Value"; Value = "0,47uF"; VariantName = "[No Variations]"
+Added Component: Designator=C9(CN1)
+Add component (AddParameter): Name = "Value"; Value = "1nF"; VariantName = "[No Variations]"
+Added Component: Designator=C10(CN1)
+Add component (AddParameter): Name = "Value"; Value = "0,47uF"; VariantName = "[No Variations]"
+Added Component: Designator=C11(CN1)
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C12(CN1)
+Add component (AddParameter): Name = "Value"; Value = "1nF"; VariantName = "[No Variations]"
+Added Component: Designator=U6(LCD 2004)
+Added Pin To Net: NetName=+5 Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=+5 Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=+5 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=+5 Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=+5 Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=+5 Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=+5 Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=+5 Pin=C8-2
+Added Pin To Net: NetName=+5 Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=+5 Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=NetC11_1 Pin=C11-1
+Added Pin To Net: NetName=NetC11_1 Pin=C12-1
+Added Pin To Net: NetName=NetC11_1 Pin=JDC1-1
+Added Pin To Net: NetName=NetC11_1 Pin=RV1-2
+Added Net: Name=NetC11_1
+Added Member To Class: ClassName=Sheet1 Member=Component C1 Cap Non-Pol
+Added Member To Class: ClassName=Sheet1 Member=Component C2 Cap Non-Pol
+Added Member To Class: ClassName=Sheet1 Member=Component C3 Cap Non-Pol
+Added Member To Class: ClassName=Sheet1 Member=Component C4 Cap Non-Pol
+Added Member To Class: ClassName=Sheet1 Member=Component C5 Cap Non-Pol
+Added Member To Class: ClassName=Sheet1 Member=Component C6 Cap Non-Pol
+Added Member To Class: ClassName=Sheet1 Member=Component C7 Cap Non-Pol
+Added Member To Class: ClassName=Sheet1 Member=Component C8 Cap Non-Pol
+Added Member To Class: ClassName=Sheet1 Member=Component C9 Cap Non-Pol
+Added Member To Class: ClassName=Sheet1 Member=Component C10 Cap Non-Pol
+Added Member To Class: ClassName=Sheet1 Member=Component C11 Cap Non-Pol
+Added Member To Class: ClassName=Sheet1 Member=Component C12 Cap Non-Pol
+Added Member To Class: ClassName=Sheet1 Member=Component U5 Bluepill
+Added Room: Name=Sheet1
