@@ -1,0 +1,82 @@
+Removed Pin From Net: NetName=+5 Pin=C3-1
+Removed Pin From Net: NetName=GND Pin=C3-2
+Removed Pin From Net: NetName=+5 Pin=C4-1
+Removed Pin From Net: NetName=GND Pin=C4-2
+Removed Pin From Net: NetName=GND Pin=C5-1
+Removed Pin From Net: NetName=+5 Pin=C5-2
+Removed Pin From Net: NetName=GND Pin=C6-1
+Removed Pin From Net: NetName=+5 Pin=C6-2
+Removed Pin From Net: NetName=GND Pin=C7-1
+Removed Pin From Net: NetName=+5 Pin=C7-2
+Removed Pin From Net: NetName=GND Pin=C8-1
+Removed Pin From Net: NetName=+5 Pin=C8-2
+Removed Pin From Net: NetName=+5 Pin=C9-1
+Removed Pin From Net: NetName=GND Pin=C9-2
+Removed Pin From Net: NetName=+5 Pin=C10-1
+Removed Pin From Net: NetName=GND Pin=C10-2
+Change Component Footprint: Designator=C1 Old Footprint=CN1 New Footprint=CAP-SM-0805
+Change Component Footprint: Designator=C2 Old Footprint=CN1 New Footprint=CAP-SM-0805
+Change Component Footprint: Designator=C3 Old Footprint=CN1 New Footprint=CAP-SM-0805
+Change Component Footprint: Designator=C4 Old Footprint=CN1 New Footprint=CAP-SM-0805
+Change Component Footprint: Designator=C5 Old Footprint=CN1 New Footprint=CAP-SM-0805
+Change Component Footprint: Designator=C6 Old Footprint=CN1 New Footprint=CAP-SM-0805
+Change Component Footprint: Designator=C7 Old Footprint=CN1 New Footprint=CAP-SM-0805
+Change Component Footprint: Designator=C8 Old Footprint=CN1 New Footprint=CAP-SM-0805
+Change Component Footprint: Designator=C9 Old Footprint=CN1 New Footprint=CAP-SM-0805
+Change Component Footprint: Designator=C10 Old Footprint=CN1 New Footprint=CAP-SM-0805
+Change Component Comment : Designator=C1 Old Comment=Cap Non-Pol New Comment=Cap Non-Pol SMD
+Change Component Comment : Designator=C2 Old Comment=Cap Non-Pol New Comment=Cap Non-Pol SMD
+Change Component Comment : Designator=C3 Old Comment=Cap Non-Pol New Comment=Cap Non-Pol SMD
+Change Component Comment : Designator=C4 Old Comment=Cap Non-Pol New Comment=Cap Non-Pol SMD
+Change Component Comment : Designator=C5 Old Comment=Cap Non-Pol New Comment=Cap Non-Pol SMD
+Change Component Comment : Designator=C6 Old Comment=Cap Non-Pol New Comment=Cap Non-Pol SMD
+Change Component Comment : Designator=C7 Old Comment=Cap Non-Pol New Comment=Cap Non-Pol SMD
+Change Component Comment : Designator=C8 Old Comment=Cap Non-Pol New Comment=Cap Non-Pol SMD
+Change Component Comment : Designator=C9 Old Comment=Cap Non-Pol New Comment=Cap Non-Pol SMD
+Change Component Comment : Designator=C10 Old Comment=Cap Non-Pol New Comment=Cap Non-Pol SMD
+Change component parameters: Designator = "C1" ("C1"); Footprint = "CN1"; UniqueID = "\YYPAPTTZ" ("\YYPAPTTZ")
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "CN1"; UniqueID = "\VDZEPLDM" ("\VDZEPLDM")
+Change component parameters (AddParameter): Name = "Value"; Value = "4,7uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "CN1"; UniqueID = "\PYZZLPJM" ("\PYZZLPJM")
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "CN1"; UniqueID = "\FBJEVYSI" ("\FBJEVYSI")
+Change component parameters (AddParameter): Name = "Value"; Value = "4,7uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "CN1"; UniqueID = "\JNDZSQOW" ("\JNDZSQOW")
+Change component parameters (AddParameter): Name = "Value"; Value = "4,7uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6" ("C6"); Footprint = "CN1"; UniqueID = "\XKLGSLFX" ("\XKLGSLFX")
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7" ("C7"); Footprint = "CN1"; UniqueID = "\CMWXQKLY" ("\CMWXQKLY")
+Change component parameters (AddParameter): Name = "Value"; Value = "4,7uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8" ("C8"); Footprint = "CN1"; UniqueID = "\RWRVGVMZ" ("\RWRVGVMZ")
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9" ("C9"); Footprint = "CN1"; UniqueID = "\RQETZMST" ("\RQETZMST")
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10" ("C10"); Footprint = "CN1"; UniqueID = "\PRZKIWUA" ("\PRZKIWUA")
+Change component parameters (AddParameter): Name = "Value"; Value = "4,7uF"; VariantName = "[No Variations]"
+Added Component: Designator=C11(CAP-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C12(CAP-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "4,7uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=+5 Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=+5 Pin=C4-2
+Added Pin To Net: NetName=+5 Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=+5 Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=+5 Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=+5 Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=+5 Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=+5 Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=+5 Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=+5 Pin=C12-2
+Added Member To Class: ClassName=Sheet1 Member=Component C11 Cap Non-Pol SMD
+Added Member To Class: ClassName=Sheet1 Member=Component C12 Cap Non-Pol SMD

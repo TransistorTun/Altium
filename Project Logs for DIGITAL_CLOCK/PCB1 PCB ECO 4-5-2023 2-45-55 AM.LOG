@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=+5 Pin=RV1-1
+Removed Pin From Net: NetName=NetD2_2 Pin=RV1-2
+Removed Member From Class: ClassName=Sheet1 Member=RV1
+Added Component: Designator=F1(FUSE SMD)
+Added Component: Designator=H1(LO KHOAN 3MM)
+Added Component: Designator=H2(LO KHOAN 3MM)
+Added Component: Designator=H3(LO KHOAN 3MM)
+Added Component: Designator=H4(LO KHOAN 3MM)
+Added Pin To Net: NetName=+5 Pin=F1-1
+Added Pin To Net: NetName=NetD2_2 Pin=F1-2
+Added Member To Class: ClassName=Sheet1 Member=Component F1 Fuse
+Added Member To Class: ClassName=Sheet1 Member=Component H1 Hole
+Added Member To Class: ClassName=Sheet1 Member=Component H2 Hole
+Added Member To Class: ClassName=Sheet1 Member=Component H3 Hole
+Added Member To Class: ClassName=Sheet1 Member=Component H4 Hole
