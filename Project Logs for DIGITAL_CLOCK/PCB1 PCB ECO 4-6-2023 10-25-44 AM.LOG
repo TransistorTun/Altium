@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=LOGO1 Old Footprint=PIF LOGO SMALL TOP New Footprint=PIF LOGO BIG TOP
+Change Component Kind : Designator=LOGO1 Old Kind=Net Tie New Kind=Standard
+Added Component: Designator=U6(LCD 2004)
+Added Member To Class: ClassName=Sheet1 Member=Component U6 LCD
